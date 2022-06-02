@@ -7,7 +7,7 @@
 * __Discord:__ prosperity#6772
 * __Telegram:__ @mxm_chi
 
-## Education and courses
+## Education and courses 
  
  1. Petroleum engineer
  2. JS https://learn.javascript.ru/ in progress
@@ -31,4 +31,3 @@ function friend(friends){
  
  * Russian - Native
  * English - Beginner
- * Belarussian - pre-Intermediate
