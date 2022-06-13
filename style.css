@@ -215,7 +215,7 @@ p {
 .rss {
     width: 120px;
     height: 40px;
-    background-image: url("assets/svg/RSSlogo.svg");
+    background-image: url("./assets/svg/RSSlogo.svg");
     background-size: contain;
     background-repeat: no-repeat;
     transition: 0.7s;
@@ -237,23 +237,23 @@ p {
 }
 
 .contacts-item:nth-child(1):before {
-    background-image: url("assets/svg/geo.svg");
+    background-image: url("./assets/svg/geo.svg");
 }
 
 .contacts-item:nth-child(2):before {
-    background-image: url("assets/svg/mail.svg");
+    background-image: url("./assets/svg/mail.svg");
 }
 
 .contacts-item:nth-child(3):before {
-    background-image: url("assets/svg/gitHub.svg");
+    background-image: url("./assets/svg/gitHub.svg");
 }
 
 .contacts-item:nth-child(4):before {
-    background-image: url("assets/svg/discord.svg");
+    background-image: url("./assets/svg/discord.svg");
 }
 
 .contacts-item:nth-child(5):before {
-    background-image: url("assets/svg/tg.svg");
+    background-image: url("./assets/svg/tg.svg");
 }
 
 .section-item:before {
@@ -264,7 +264,7 @@ p {
     width: 24px;
     height: 24px;
     background-size: contain;
-    background-image: url("assets/svg/arrow.svg");
+    background-image: url("./assets/svg/arrow.svg");
 }
 
 
