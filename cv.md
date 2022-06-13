@@ -15,7 +15,7 @@
  
  ## About myself:
  
- I want to become a programmer.
+ I want to become a programmer. Keep learning.
  
  ## Code example:
  
