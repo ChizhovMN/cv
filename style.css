@@ -166,8 +166,6 @@ body {
 }
 
 #languages {
-    justify-content: center;
-    text-align: center;
     width: 40%;
     border-bottom: none;
     ;
@@ -176,7 +174,8 @@ body {
 #contacts,
 #summary,
 #codeExample,
-#skillsAndProjects,
+#skills,
+#projects,
 #education,
 #courses {
     border-top: 10px solid #D8C3A5;
@@ -256,6 +255,11 @@ p {
     background-image: url("./assets/svg/tg.svg");
 }
 
+.skill-list,
+.project-list {
+    padding: 0;
+}
+
 .section-item:before {
     content: "";
     position: absolute;
@@ -294,6 +298,18 @@ p {
 }
 
 @media (max-width:1140px) {
+
+    /* .nav {
+        display: none;
+    } */
+    .nav-link {
+        font-size: 20px;
+        padding: 0 10px;
+    }
+}
+
+@media (max-width:920px) {
+
     .nav {
         display: none;
     }
